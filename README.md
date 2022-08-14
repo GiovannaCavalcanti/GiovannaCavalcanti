@@ -25,7 +25,6 @@
    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png"      alt="PowerShell" height="50" /></a>  
 </div>
 
-    </td>
   <td valign="top" width="33%">
 
 ### Backend  
@@ -39,7 +38,6 @@
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td>
 <td valign="top" width="33%">
 
 ### DevOps  
@@ -48,7 +46,6 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-    </td>
   </tr>
 </table>  
 
