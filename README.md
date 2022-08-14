@@ -1,8 +1,17 @@
 ### Olá! Eu sou Giovanna Cavalcanti, apaixonada por Tecnologia e Desenvolvedora Front-end🧩
 
+##19 anos,São Paulo, atualmente focada em Desenvolvimento Front-End com Javascript. 
+Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾
+
+Habilidades:React, Javascript, Typescript.
+
+Experiencia em Metodologias Ágeis:Scrum e Kanban.
+
+Aprendendo Nodejs,Kubernetes,PHP e Conceitos de nuvem da Azure e AWS.
+
 <div>
  <a href="https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank" height="30">
+   <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank" height="30">
 </a>
   
  <a href="https://api.whatsapp.com/send?phone=5511988061079&text=Ol%C3%A1%2C%20Podemos%20conversar%20um%20pouco%3F" target="_blank" >
