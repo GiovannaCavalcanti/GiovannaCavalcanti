@@ -11,11 +11,11 @@ Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾
 
 <div>
  <a href="https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/" target="_blank">
-   <img align="center" float="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank" height="30">
+   <img align="center" text-align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank" height="30">
 </a>
   
  <a href="https://api.whatsapp.com/send?phone=5511988061079&text=Ol%C3%A1%2C%20Podemos%20conversar%20um%20pouco%3F" target="_blank" >
-  <img align="center" float="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" /> 
+  <img align="center" text-align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" /> 
  </a>
 </div>
 
