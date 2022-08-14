@@ -27,8 +27,8 @@ Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾
 
 <div align="center">
   <a href="https://github.com/GiovannaCavalcanti">
-  <img align="left" height="180em" width= "auto" src="http://github-readme-streak-stats.herokuapp.com?user=GiovannaCavalcanti&theme=vision-friendly-dark&locale=pt-br&date_format=%5BY.%5Dn.j&fire=DD2727"/>
-  <img align="right"height="180em" width= "auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacavalcanti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width= "auto" src="http://github-readme-streak-stats.herokuapp.com?user=GiovannaCavalcanti&theme=vision-friendly-dark&locale=pt-br&date_format=%5BY.%5Dn.j&fire=DD2727"/>
+  <img height="180em" width= "auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacavalcanti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br />
  
