@@ -1,8 +1,7 @@
 ### Olá! Eu sou Giovanna Cavalcanti, apaixonada por Tecnologia e Desenvolvedora Front-end🧩
 
-<br  />
-<img src="https://camo.githubusercontent.com/3bf07f6e5d6353032e1f30627a228bb569d0ee11eae44a776896d5f46f8fe1f7/68747470733a2f2f676f676f70726f672e6769746875622e696f2f73757065722d6d6172696f2d6d6573736167652f766964656f2e676966" align="left" height="" width="600" />
-<br  />
+
+<img src="https://camo.githubusercontent.com/3bf07f6e5d6353032e1f30627a228bb569d0ee11eae44a776896d5f46f8fe1f7/68747470733a2f2f676f676f70726f672e6769746875622e696f2f73757065722d6d6172696f2d6d6573736167652f766964656f2e676966" align="left" height="" width="600" /><br />
 
 <div align="center">
   <a href="https://github.com/GiovannaCavalcanti">
