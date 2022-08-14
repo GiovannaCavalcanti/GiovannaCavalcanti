@@ -1,7 +1,7 @@
 ### Olá! Eu sou Giovanna Cavalcanti, apaixonada por Tecnologia e Desenvolvedora Front-end🧩
 
-##19 anos,São Paulo, atualmente focada em Desenvolvimento Front-End com Javascript. 
-Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾
+<h2>19 anos,São Paulo, atualmente focada em Desenvolvimento Front-End com Javascript. 
+Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾</h2>
 
 💪 Habilidades:React, Javascript, Typescript.
 
