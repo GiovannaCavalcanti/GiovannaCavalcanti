@@ -3,11 +3,11 @@
 ##19 anos,São Paulo, atualmente focada em Desenvolvimento Front-End com Javascript. 
 Apaixonada pelo mundo de Tecnologia e entusiasta por Games 👾
 
-Habilidades:React, Javascript, Typescript.
+💪 Habilidades:React, Javascript, Typescript.
 
-Experiencia em Metodologias Ágeis:Scrum e Kanban.
+⌛ Experiencia em Metodologias Ágeis:Scrum e Kanban.
 
-Aprendendo Nodejs,Kubernetes,PHP e Conceitos de nuvem da Azure e AWS.
+🎓 Aprendendo Nodejs,Kubernetes,PHP e Conceitos de nuvem da Azure e AWS.
 
 <div>
  <a href="https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/" target="_blank">
