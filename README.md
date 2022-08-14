@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/GiovannaCavalcanti">
-  <img height="180em" width= "auto" src="https://github-readme-stats.vercel.app/api?username=giovannacavalcanti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "auto" src="https://github-readme-stats.vercel.app/api?username=GiovannaCavalcanti&theme=nightowl&show_icons=true"/>
   <img height="180em" width= "auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacavalcanti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
